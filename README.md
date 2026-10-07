@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="assets/pixel-dev.gif" width="100%" alt="Pixel Art Developer Animation">
-</p>
-
-
 # 👋 Hi, I'm Muhamad Soleh Sulaeman
 
 ### 💻 Software Engineering Student · Web & Mobile Developer
